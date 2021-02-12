@@ -2,7 +2,7 @@
   "name": "parquetjs-patch",
   "description": "fully asynchronous, pure JavaScript implementation of the Parquet file format",
   "main": "parquet.js",
-  "version": "0.11.3",
+  "version": "0.11.4",
   "homepage": "https://github.com/ironSource/parquetjs",
   "author": "ironSource <npm@ironsrc.com>",
   "license": "MIT",
@@ -21,7 +21,7 @@
     "int53": "^0.2.4",
     "object-stream": "0.0.1",
     "snappyjs": "^0.6.0",
-    "thrift": "^0.11.0",
+    "thrift": "^0.13.0-hotfix.1",
     "varint": "^5.0.0"
   },
   "optionalDependencies": {
