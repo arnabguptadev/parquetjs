@@ -5,7 +5,7 @@
 //
 "use strict";
 
-var thrift = require('thrift');
+var thrift = require('thrift-patch');
 var Thrift = thrift.Thrift;
 var Q = thrift.Q;
 
